@@ -4,7 +4,7 @@
 
 
 I am a Colombian software developer with many dreams to fulfill and who is becoming more and more interested in the world of software development.
-My projects have been based on web (HTML, CSS, JavaScript, PHP), mobile (ApacheCordova) and computer (Java, C#) application development.  
+My projects have been based on web (HTML, CSS, JavaScript, PHP), mobile (ApacheCordova) and computer (Java) application development.  
 I have used services like Firebase to store data and I have also worked with hostings like InifinityFree for applications developed with PHP.
 
 - 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, PHP, Backend as a Service and web development tools. Also, improving my English**
