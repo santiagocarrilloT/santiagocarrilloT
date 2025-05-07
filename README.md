@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Santiago Carrillo</h1>
-<h3 align="center">Currently a student of software development in Java, PHP, JavaScript, C#, etc and websites at the basic level.
+<h3 align="center">Graduate in Software Development Technology from the Universidad del Valle
 </h3>
 
 
-I am a Colombian software developer with many dreams to fulfill and who is becoming more and more interested in the world of software development.
-My projects have been based on web (HTML, CSS, JavaScript, PHP), mobile (ApacheCordova) and computer (Java) application development.  
-I have used services like Firebase to store data and I have also worked with hostings like InifinityFree for applications developed with PHP.
+I'm a software developer, working on web and mobile applications. I've got two years of experience, and right now I'm working 
+on academic and freelance projects. I'm a real nerd when it comes to analyzing algorithms and designing data structures. 
+I really enjoy working as part of a team and I'm always happy to contribute ideas and valuable work.
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript, PHP, Backend as a Service and web development tools. Also, improving my English**
+- 🌱 I’m currently learning **React, Redux, Node.js and Express.js. Also, improving my English**
+
+- 💡 I’m currently familiar **Java, Scala, HTML, CSS, JavaScript, PHP, MySQL, Flutter, Firebase, Supabase**
 
 - 📫 How to reach me **santicarrillo314@gmail.com**
 
